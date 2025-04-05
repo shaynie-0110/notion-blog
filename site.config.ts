@@ -17,9 +17,9 @@ export default siteConfig({
   description: '嗨嗨尼好，這邊是 tsai sha 的部落格',
 
   // social usernames (optional)
-  twitter: '#',
-  github: '#',
-  linkedin: '#',
+  // twitter: '#',
+  // github: '#',
+  // linkedin: '#',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
